@@ -7,17 +7,17 @@ swift学了10天左右，学一样东西不如实战，写了一个本地通知�
 
 
 
-![](https://github.com/FenSmith/alarmClock/blob/master/1.jpg)
+![](https://github.com/FenSmith/alarmClock/blob/master/1.png)
 
 
 
 
 
-![](https://github.com/FenSmith/alarmClock/blob/master/2.jpg)
+![](https://github.com/FenSmith/alarmClock/blob/master/2.png)
 
 
 
 
-![](https://github.com/FenSmith/alarmClock/blob/master/3.jpg)
+![](https://github.com/FenSmith/alarmClock/blob/master/3.png)
 
 
